@@ -1,0 +1,11 @@
+$date
+	Wed Apr 03 19:03:57 2024
+$end
+$version
+	QuestaSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module top_clock $end
